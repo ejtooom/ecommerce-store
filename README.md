@@ -1,7 +1,12 @@
 
+## Description
+
+E-commerce store filled up by dummy data. 
+
+MERN MongoDB, Express, React, Redux, Node.
 
 ## Demo Website
-- 👉 Heroku: 
+- 👉 Heroku: [https://my-ecommerce-store-app.herokuapp.com](https://my-ecommerce-store-app.herokuapp.com)
 
 ## Run Locally
 
@@ -54,4 +59,3 @@ $ npm start
 
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
-
