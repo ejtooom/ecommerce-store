@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 const InfoBoxSchema = new mongoose.Schema({
     name: {type: String, required: true, unique: true},
     image: {type: String, required: true},
-    link: {type: String, required: true},
+    link: {type: String, required: false},
     title: {type: String, required: true},
     text: {type: String, required: true},
     }, 

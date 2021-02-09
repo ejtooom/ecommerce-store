@@ -5,7 +5,7 @@ const BannerSchema = new mongoose.Schema({
     category: {type: String, required: false},
     subcategory: {type: String, required: false},
     image: {type: String, required: true},
-    link: {type: String, required: true},
+    link: {type: String, required: false},
     }, 
     {
     timestamps: true,
