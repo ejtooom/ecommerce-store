@@ -684,19 +684,19 @@ const data = {
     advertisingBoxes: [
         {
             name: "advertising_1",
-            link: "/",
+            link: "",
             image: "/images/1611507310441.jpg"
         }, {
             name: "advertising_2",
-            link: "/",
+            link: "",
             image: "/images/1611507340890.jpg"
         }, {
             name: "advertising_3",
-            link: "/",
+            link: "",
             image: "/images/1611507356761.jpg"
         }, {
             name: "advertising_4",
-            link: "/",
+            link: "",
             image: "/images/1611507368896.jpg"
         }
     ],
@@ -704,48 +704,48 @@ const data = {
         {
             name: "banner_6",
             image: "/images/1611513306783.jpg",
-            link: "/",
+            link: "",
             category: "home"
         }, {
             name: "banner_1",
             image: "/images/1611513603637.jpg",
-            link: "/",
+            link: "",
             category: "third-category"
         }, {
             name: "banner_2",
             image: "/images/1611514602280.jpg",
-            link: "/",
+            link: "",
             category: "",
             subcategory: "/th-first-subcategory"
         }, {
             name: "banner_3",
             image: "/images/1611514680349.jpg",
-            link: "/",
+            link: "",
             category: "second-category"
         }, {
             name: "banner_4",
             image: "/images/1611514845936.jpg",
-            link: "/",
+            link: "",
             category: "fourth-category"
         }, {
             name: "banner_5",
             image: "/images/1611514890330.jpg",
-            link: "/",
+            link: "",
             category: "first-category"
         }
     ],
     covers: [
         {
             name: "cover_1",
-            link: "/",
+            link: "",
             image: "/images/1611507127529.jpg"
         }, {
             name: "cover_2",
-            link: "/",
+            link: "",
             image: "/images/1611507229577.jpg"
         }, {
             name: "cover_3",
-            link: "/",
+            link: "",
             image: "/images/1611507238733.jpg"
         }
     ],
@@ -772,31 +772,31 @@ const data = {
         {
             title: "First title info box",
             text: "First text info box",
-            link: "/",
+            link: "",
             image: "/images/1612372739820.jpg",
             name: "first"
         }, {
             title: "Second title info box",
             text: "Second text info box",
-            link: "/",
+            link: "",
             image: "/images/1612372907086.jpg",
             name: "firsta"
         }, {
             title: "Third title info box",
             text: "Third text info box",
-            link: "/",
+            link: "",
             image: "/images/1612372925273.jpg",
             name: "firsts"
         }, {
             title: "Fourth title info box",
             text: "Fourth text info box",
-            link: "/",
+            link: "",
             image: "/images/1612372937220.jpg",
             name: "firstd"
         }, {
             title: "Fifth title info box",
             text: "Fifth text info box",
-            link: "/",
+            link: "",
             image: "/images/1612372946182.jpg",
             name: "firstf"
         }
